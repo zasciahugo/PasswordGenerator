@@ -59,7 +59,7 @@ function generatePassword($length = 15, $options = [])
             </div>
         </div>
         <div>
-            <p class="text-center text-gray-400 text-xs mt-2">Developed by Zascia Hugo from <a href="https://www.shecodeapps.com" class="underline">SheCode Apps</a></p>
+            <p class="text-center text-gray-400 text-xs mt-2">Developed by <a href="https://www.zasciahugo.com" class="underline">Zascia Hugo</a></p>
             <p class="text-center text-gray-400 text-xs">Copyright © 2024 Zascia Hugo</p>
         </div>
     </div>
